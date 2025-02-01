@@ -26,22 +26,22 @@ The dataset contains records related to Bamboo, Tea, and Rubber plantations with
 
 
 🚀 **Workflow**
-1️⃣ Data Ingestion – Import CSV files into Databricks using PySpark.
-2️⃣ Data Cleaning – Remove duplicates, handle missing values, and standardize formats.
-3️⃣ Transformations & Aggregation – Compute max production per crop, average production per region, and identify trends.
+  * Data Ingestion – Import CSV files into Databricks using PySpark.
+  * Data Cleaning – Remove duplicates, handle missing values, and standardize formats.
+  * Transformations & Aggregation – Compute max production per crop, average production per region, and identify trends.
 
 
 🔧 **Running the Project**
-1️⃣ Upload the dataset to Databricks DBFS or Azure Storage.
-2️⃣ Open the Databricks Notebook and execute the cells sequentially.
-3️⃣ Modify configurations if required for different datasets.
-4️⃣ Analyze the output using summary tables.
+  * Upload the dataset to Databricks DBFS or Azure Storage.
+  * Open the Databricks Notebook and execute the cells sequentially.
+  * Modify configurations if required for different datasets.
+  * Analyze the output using summary tables.
 
 
 🎯 Key Takeaways
-✅ Using PySpark for scalable data processing.
-✅ Cleaning and transforming real-world datasets.
-✅ Extracting insights with aggregations and visualizations.
+  * Using PySpark for scalable data processing.
+  * Cleaning and transforming real-world datasets.
+  * Extracting insights with aggregations and visualizations.
 
 👨‍💻 **Author**
 📌 Yoganshu Raikhere – Data Engineering Enthusiast
